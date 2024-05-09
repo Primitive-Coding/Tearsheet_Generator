@@ -1,0 +1,12 @@
+ipywidgets
+openpyxl
+pandas
+pandas_market_calendars
+plotly
+python-dotenv
+requests_html
+scikit-learn
+selenium
+statsmodels
+yahoo-fin
+yfinance

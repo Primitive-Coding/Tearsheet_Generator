@@ -3,4 +3,4 @@ Tearsheet
 ------- Calculations
 ------- Forecast
 
-![AAPL](Examples\aapl.PNG)
+![AAPL](Examples/aapl.PNG)
